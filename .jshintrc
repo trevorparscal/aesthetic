@@ -1,0 +1,19 @@
+{
+	// Enforcing
+	"bitwise": true,
+	"eqeqeq": true,
+	"freeze": true,
+	"latedef": true,
+	"noarg": true,
+	"undef": true,
+	"unused": true,
+	"strict": false,
+	"noyield": true,
+
+	// Environment
+	"browser": true,
+	"globals": {
+		"OO": true,
+		"Aesthetic": true
+	}
+}
